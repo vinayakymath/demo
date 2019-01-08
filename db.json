@@ -1,0 +1,68 @@
+[
+	{
+		"empid": WEB083,
+		"name": "Vinayak C Y",
+		"username": "vinayakcy",
+		"email": "vinayak@xyz.com",
+		"address": {
+			"street": "Basaveshwar Nagar",
+			"city": "Dharwad",
+			"zipcode": "000001",
+			"geo": {
+				"lat": "-37.3159",
+				"lng": "81.1496"
+			}
+		},
+		"phone": "1234567891",
+		"website": "abc.org",
+		"company": {
+			"name": "XYZ",
+			"catchPhrase": "ratione ex tenetur perferendis",
+			"bs": "beatae soluta recusandae"
+		}
+	},
+	{
+		"empid": WEB084,
+		"name": "Pavan P",
+		"username": "pavanp",
+		"email": "pavan@xyz.com",
+		"address": {
+			"street": "Indira Nagar",
+			"city": "Bangalore",
+			"zipcode": "001001",
+			"geo": {
+				"lat": "-37.3159",
+				"lng": "81.1496"
+			}
+		},
+		"phone": "1234567771",
+		"website": "abc.org",
+		"company": {
+			"name": "XYZ",
+			"catchPhrase": "qui qui voluptates illo iste minima",
+			"bs": "id minus libero illum nam ad officiis"
+		}
+	},
+	{
+		"empid": WEB085,
+		"name": "Rakshith A R",
+		"username": "rakshithar",
+		"email": "rakshith@xyz.com",
+		"address": {
+			"street": "Malleshwaram",
+			"city": "Bangalore",
+			"zipcode": "101001",
+			"geo": {
+				"lat": "-37.3159",
+				"lng": "81.1496"
+			}
+		},
+		"phone": "9988776655",
+		"website": "abc.org",
+		"company": {
+			"name": "XYZ",
+			"catchPhrase": "quaerat velit veniam amet cupiditate aut numquam ut sequi",
+			"bs": "quas fugiat ut perspiciatis vero provident"
+		}
+	}
+]
